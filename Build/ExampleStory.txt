@@ -1,0 +1,188 @@
+Session started.;The session was created at [12/31/2018 8:34:18 PM].;0;0;0
+Player 3 connected;Signed in and is able to play.;0;0;1.604584
+Player 2 connected;Signed in and is able to play.;0;0;25.20415
+Player 1 connected;Signed in and is able to play.;0;0;25.69425
+Epoch; ;0;0;34.94492
+Epoch; ;0;0;56.74352
+Final votes;LoadingSceneDance: 0, LoadingScreenKSD: 0, WaterFight: 0, LoadingScreenBombDrop: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenLavaMap: 0, LoadingScreenLG: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, Roadkill: 0, RaceTrack: 0, LightningGod: 0, LavaFight: 0, LoadingScenePokeTheBear: 3, ;0;0;56.74352
+Bird multi attack;Player 3got hit by the bird and lost 9 points.;0;2;7.081397
+Bird multi attack;Player 1got hit by the bird and lost 17 points.;0;2;7.081397
+Bird multi attack;Player 2got hit by the bird and lost 13 points.;0;2;7.081397
+Bird single attack;Player 3got hit by the bird and lost 3 points.;0;2;12.151
+Bird single attack;Player 3got hit by the bird and lost 3 points.;0;2;17.20896
+Bird single attack;Player 1got hit by the bird and lost 5 points.;0;2;22.26719
+Bird single attack;Player 1got hit by the bird and lost 1 points.;0;2;27.37053
+Bird single attack;Player 2got hit by the bird and lost 8 points.;0;2;32.5801
+Epoch; ;0;2;46.42021
+Final votes;LoadingSceneDance: 0, LoadingScreenKSD: 0, WaterFight: 0, LoadingScreenBombDrop: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenLavaMap: 0, LoadingScreenLG: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, Roadkill: 0, RaceTrack: 0, LightningGod: 0, LavaFight: 0, LoadingScenePokeTheBear: 3, ;0;2;46.42021
+Bird multi attack;Player 1got hit by the bird and lost 10 points.;0;3;30.40206
+Bird multi attack;Player 2got hit by the bird and lost 10 points.;0;3;30.40206
+Bird single attack;Player 3got hit by the bird and lost 17 points.;0;3;35.46122
+Bird single attack;Player 2got hit by the bird and lost 8 points.;0;3;40.52458
+Bird single attack;Player 1got hit by the bird and lost 5 points.;0;3;45.57563
+Bird single attack;Player 2got hit by the bird and lost 9 points.;0;3;50.64477
+Bird single attack;Player 3got hit by the bird and lost 11 points.;0;3;55.89073
+Epoch; ;0;4;9.711108
+Final votes;LoadingSceneDance: 0, LoadingScreenKSD: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenLavaMap: 0, LoadingScreenLG: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, Roadkill: 0, LightningGod: 0, RaceTrack: 0, LavaFight: 0, LoadingScreenBombDrop: 3, ;0;4;9.711108
+Player dead;Player 1 died.;0;4;31.11043
+Player dead;Player 3 died.;0;4;41.00104
+Player died from fall;Player 3 fell of the map.;0;4;41.00104
+Epoch; ;0;4;50.60983
+Final votes;LoadingSceneDance: 0, LoadingScreenKSD: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenLavaMap: 0, LoadingScreenLG: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, Roadkill: 0, LightningGod: 0, RaceTrack: 0, LavaFight: 0, LoadingScreenBombDrop: 3, ;0;4;50.60983
+Player dead;Player 3 died.;0;5;7.076465
+Player died from fall;Player 3 fell of the map.;0;5;7.076465
+Player dead;Player 1 died.;0;5;35.46254
+Player died from fall;Player 1 fell of the map.;0;5;35.46254
+Epoch; ;0;5;48.81588
+Final votes;LoadingScreenBombDrop: 0, LoadingScreenKSD: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenLavaMap: 0, LoadingScreenLG: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, Roadkill: 0, LightningGod: 0, RaceTrack: 0, LavaFight: 0, LoadingSceneDance: 3, ;0;5;48.81588
+Epoch; ;0;7;7.18952
+Final votes;LoadingScreenBombDrop: 0, LoadingScreenKSD: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenLavaMap: 0, LoadingScreenLG: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, Roadkill: 0, LightningGod: 0, RaceTrack: 0, LavaFight: 0, LoadingSceneDance: 3, ;0;7;7.18952
+Epoch; ;0;8;31.98937
+Final votes;LoadingScreenBombDrop: 0, LoadingSceneDance: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenLavaMap: 0, LoadingScreenLG: 0, DesertFight: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, DanceDance: 0, LightningGod: 0, RaceTrack: 0, Roadkill: 0, LavaFight: 0, LoadingScreenKSD: 3, ;0;8;31.98937
+Epoch; ;0;13;23.0675
+Final votes;LoadingScreenBombDrop: 0, LoadingSceneDance: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenLG: 0, LoadingScreenRoadKill: 0, LoadingScreenKSD: 0, LoadingScreenLavaMap: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, LightningGod: 0, RaceTrack: 0, Roadkill: 0, LavaFight: 0, LoadingScreenRoadRace: 3, ;0;13;23.0675
+Car bump!;Player2 knocked Player1 with a force of 0;0;13;35.71661
+Car fell off map;Player 1 fell off the track and has respawned.;0;13;37.00345
+Car fell off map;Player 2 fell off the track and has respawned.;0;13;37.02059
+Car fell off map;Player 1 fell off the track and has respawned.;0;13;43.34825
+Car fell off map;Player 3 fell off the track and has respawned.;0;13;43.61009
+Car bump!;Player1 knocked Player3 with a force of 33.44325;0;13;45.59696
+Car bump!;Player1 knocked Player3 with a force of 20.90666;0;13;45.72598
+Car fell off map;Player 3 fell off the track and has respawned.;0;13;47.33942
+Car bump!;Player1 knocked Player2 with a force of 91.26643;0;13;53.84497
+Car fell off map;Player 1 fell off the track and has respawned.;0;13;56.48656
+Car fell off map;Player 3 fell off the track and has respawned.;0;13;59.21771
+Car fell off map;Player 1 fell off the track and has respawned.;0;13;59.90693
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;4.388777
+Car fell off map;Player 1 fell off the track and has respawned.;0;14;7.416823
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;7.684811
+Car fell off map;Player 1 fell off the track and has respawned.;0;14;11.04196
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;12.61113
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;16.48126
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;22.50091
+Car fell off map;Player 2 fell off the track and has respawned.;0;14;24.1223
+Car fell off map;Player 2 fell off the track and has respawned.;0;14;28.31075
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;32.27078
+Car fell off map;Player 2 fell off the track and has respawned.;0;14;35.93052
+Car fell off map;Player 1 fell off the track and has respawned.;0;14;38.51299
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;43.38268
+Car fell off map;Player 1 fell off the track and has respawned.;0;14;44.60658
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;47.94912
+Car fell off map;Player 2 fell off the track and has respawned.;0;14;49.83119
+Car bump!;Player2 knocked Player1 with a force of 26.5906;0;14;51.12426
+Car bump!;Player2 knocked Player1 with a force of 38.47289;0;14;51.2632
+Car fell off map;Player 2 fell off the track and has respawned.;0;14;55.82245
+Car fell off map;Player 3 fell off the track and has respawned.;0;14;56.11874
+Car fell off map;Player 2 fell off the track and has respawned.;0;14;59.17336
+Car fell off map;Player 1 fell off the track and has respawned.;0;14;59.61376
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;2.946278
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;6.598785
+Finished a lap.;Player 3 completed a lap and now has 1 points.;0;15;7.310804
+Car bump!;Player3 knocked Player2 with a force of 16.89159;0;15;7.458766
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;7.591403
+Car bump!;Player2 knocked Player1 with a force of 20.69928;0;15;7.591403
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;9.192219
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;10.89978
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;12.35448
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;13.53992
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;14.22888
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;15.70216
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;17.10159
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;19.7019
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;20.05399
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;23.03303
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;23.39627
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;23.65492
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;26.93894
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;30.28537
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;31.26519
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;34.70262
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;35.15257
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;36.29831
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;42.10854
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;42.83853
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;43.56754
+Car bump!;Player3 knocked Player1 with a force of 5.183697;0;15;43.94173
+Car bump!;Player2 knocked Player1 with a force of 1.643443E-06;0;15;44.09965
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;46.09547
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;46.84389
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;47.16985
+Car bump!;Player2 knocked Player1 with a force of 0;0;15;47.35166
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;49.85032
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;50.11139
+Car bump!;Player1 knocked Player2 with a force of 0.5435394;0;15;51.03563
+Car bump!;Player1 knocked Player2 with a force of 1.035646;0;15;51.07906
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;51.1732
+Car bump!;Player1 knocked Player2 with a force of 5.829854;0;15;52.02121
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;53.36211
+Car fell off map;Player 1 fell off the track and has respawned.;0;15;54.41116
+Car fell off map;Player 2 fell off the track and has respawned.;0;15;56.7609
+Car fell off map;Player 3 fell off the track and has respawned.;0;15;57.217
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;1.062605
+Car fell off map;Player 3 fell off the track and has respawned.;0;16;3.110246
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;4.026288
+Car bump!;Player1 knocked Player2 with a force of 13.65886;0;16;5.842717
+Car fell off map;Player 3 fell off the track and has respawned.;0;16;7.550762
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;7.790518
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;10.85012
+Car fell off map;Player 1 fell off the track and has respawned.;0;16;12.3088
+Car fell off map;Player 3 fell off the track and has respawned.;0;16;14.31985
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;14.63475
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;17.96978
+Car fell off map;Player 1 fell off the track and has respawned.;0;16;21.6352
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;21.96241
+Car bump!;Player2 knocked Player1 with a force of 0;0;16;22.10665
+Car fell off map;Player 1 fell off the track and has respawned.;0;16;24.13189
+Car fell off map;Player 1 fell off the track and has respawned.;0;16;27.44963
+Finished a lap.;Player 3 completed a lap and now has 2 points.;0;16;31.66853
+Finished a lap.;Player 2 completed a lap and now has 1 points.;0;16;33.96932
+Car fell off map;Player 1 fell off the track and has respawned.;0;16;34.81556
+Car bump!;Player2 knocked Player3 with a force of 2.170529;0;16;35.0475
+Car bump!;Player1 knocked Player2 with a force of 27.96532;0;16;36.47124
+Car bump!;Player1 knocked Player2 with a force of 58.62386;0;16;36.72347
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;38.25014
+Car fell off map;Player 1 fell off the track and has respawned.;0;16;38.47863
+Car bump!;Player1 knocked Player2 with a force of 50.97557;0;16;40.45102
+Car fell off map;Player 3 fell off the track and has respawned.;0;16;42.14911
+Car fell off map;Player 3 fell off the track and has respawned.;0;16;45.56147
+Car fell off map;Player 1 fell off the track and has respawned.;0;16;46.08788
+Car fell off map;Player 3 fell off the track and has respawned.;0;16;49.87033
+Finished a lap.;Player 2 completed a lap and now has 2 points.;0;16;53.44046
+Car fell off map;Player 3 fell off the track and has respawned.;0;16;55.15149
+Car fell off map;Player 2 fell off the track and has respawned.;0;16;59.45135
+Car fell off map;Player 2 fell off the track and has respawned.;0;17;3.898044
+Finished a lap.;Player 3 completed a lap and now has 3 points.;0;17;7.172879
+Won race.;Player 3 won the race!;0;17;7.198166
+Epoch; ;0;17;13.2183
+Final votes;LoadingScreenBombDrop: 0, LoadingSceneDance: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenKSD: 0, LoadingScreenLavaMap: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, RaceTrack: 0, LightningGod: 0, Roadkill: 0, LavaFight: 0, LoadingScreenLG: 3, ;0;17;13.2183
+Player dead;Player 1 died.;0;17;56.87097
+Player died from fall;Player 1 fell of the map.;0;17;56.87097
+Player dead;Player 2 died.;0;17;58.74856
+Player died from fall;Player 2 fell of the map.;0;17;58.74856
+Epoch; ;0;18;5.055406
+Final votes;LoadingScreenBombDrop: 0, LoadingSceneDance: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenKSD: 0, LoadingScreenLavaMap: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, RaceTrack: 0, LightningGod: 0, Roadkill: 0, LavaFight: 0, LoadingScreenLG: 2, ;0;18;5.055406
+Player dead;Player 2 died.;0;18;50.18884
+Player died from fall;Player 2 fell of the map.;0;18;50.18884
+Player dead;Player 3 died.;0;18;51.15552
+Player died from fall;Player 3 fell of the map.;0;18;51.15552
+Epoch; ;0;18;57.50929
+Final votes;LoadingScreenBombDrop: 0, LoadingSceneDance: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenKSD: 0, LoadingScreenLavaMap: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, RaceTrack: 0, LightningGod: 0, Roadkill: 0, LavaFight: 0, LoadingScreenLG: 2, ;0;18;57.50929
+Player dead;Player 2 died.;0;19;26.03415
+Player died from fall;Player 2 fell of the map.;0;19;26.03415
+Player dead;Player 1 died.;0;19;33.76088
+Player died from fall;Player 1 fell of the map.;0;19;33.76088
+Epoch; ;0;19;39.82165
+Final votes;LoadingScreenBombDrop: 0, LoadingSceneDance: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenRoadKill: 0, LoadingScreenRoadRace: 0, LoadingScreenKSD: 0, LoadingScreenLG: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, LightningGod: 0, RaceTrack: 0, LavaFight: 0, Roadkill: 0, LoadingScreenLavaMap: 2, ;0;19;39.82165
+Player dead;Player 1 died.;0;20;25.36159
+Player died from fall;Player 1 fell of the map.;0;20;25.36159
+Player dead;Player 2 died.;0;21;7.383928
+Player died from fall;Player 2 fell of the map.;0;21;7.383928
+Epoch; ;0;21;15.49988
+Final votes;LoadingScreenBombDrop: 0, LoadingSceneDance: 0, WaterFight: 0, LoadingScenePokeTheBear: 0, LoadingScreenLG: 0, LoadingScreenRoadRace: 0, LoadingScreenKSD: 0, LoadingScreenLavaMap: 0, DesertFight: 0, DanceDance: 0, KillStealDefend: 0, PokeTheBear: 0, BombDrop: 0, LightningGod: 0, RaceTrack: 0, Roadkill: 0, LavaFight: 0, LoadingScreenRoadKill: 2, ;0;21;15.49988
+Car bump!;Player1 knocked Player3 with a force of 2.141726;0;21;46.28897
+Car bump!;Player1 knocked Player3 with a force of 18.64303;0;21;50.47312
+Car bump!;Player3 knocked Player1 with a force of 6.804314;0;21;56.68427
+Car bump!;Player1 knocked Player2 with a force of 59.09755;0;21;58.09852
+Car bump!;Player1 knocked Player2 with a force of 43.98366;0;21;58.15931
+Car bump!;Player3 knocked Player2 with a force of 13.22608;0;21;58.97113
+Epoch; ;0;23;36.433
